@@ -18,8 +18,8 @@ A Python tool that scrapes recipe websites and formats the data into Alpaca-styl
 
 1. Clone this repository:
 ```bash
-git clone [your-repo-url]
-cd [repo-name]
+git clone https://github.com/Imagineer99/GPT-Recipe-Scraper
+cd GPT-Recipe-Scraper
 ```
 
 2. Install required packages:
